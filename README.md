@@ -1,77 +1,14 @@
-🌟 Simón Miranda — Software Developer
 
-¡Hola! Soy Simón Miranda, estudiante de Ingeniería de Sistemas y desarrollador apasionado por crear soluciones prácticas y experiencias digitales con impacto real. Me enfoco principalmente en backend, pero disfruto construir aplicaciones completas que integren buen diseño, estructura y funcionalidad.
+# 🌟 Hi! I'm Simón Miranda
 
-💡 Mi objetivo actual es fortalecer mis capacidades en arquitectura de software, infraestructura en la nube y desarrollo de aplicaciones móviles y web escalables.
+I'm Systems Engineering student and software developer passionate about building practical solutions and meaningful digital experiences. I mainly focus on backend development, but I also enjoy creating complete applications that blend clean design, structure, and real functionality.
 
-🚀 Sobre mí
-
-👨‍💻 Me gusta crear aplicaciones funcionales con un enfoque en rendimiento y organización del código.
-
-🌱 Siempre estoy explorando nuevas tecnologías y herramientas, especialmente en backend y mobile.
-
-🔧 Trabajo constantemente en proyectos personales para aprender, mejorar y compartir.
-
-📚 Disfruto entender cómo funcionan los sistemas internamente, desde redes hasta arquitectura de computadores.
-
-✨ Me atraen los retos que requieren lógica, creatividad y soluciones limpias.
-
-🌐 Enlaces
-
-🔗 Portafolio / Sitio web: (agregar cuando lo tengas)
-💼 LinkedIn: (tu enlace aquí)
-
-🛠️ Tech Stack
-
-Frontend:
-<code>Angular</code> • <code>HTML5</code> • <code>CSS3</code> • <code>Tailwind</code>
-
-Backend & APIs:
-<code>Node.js</code> • <code>Express</code> • <code>NestJS</code> • <code>FastAPI</code> • <code>Python</code>
-
-Bases de datos:
-<code>PostgreSQL</code> • <code>MySQL</code> • <code>MariaDB</code> • <code>MongoDB</code> • <code>Supabase</code>
-
-Mobile:
-<code>Flutter</code>
-
-DevOps & Tools:
-<code>Docker</code> • <code>Vercel</code> • <code>Git</code> • <code>GitHub</code>
-
-📊 Mis estadísticas de GitHub
-<div align="center">
+💡 My current goal is to strengthen my skills in software architecture, cloud infrastructure, and scalable mobile & web development.
 
 
 
 
-</div>
-🏆 Proyectos Destacados
-🔹 MoneyMingle
-
-Aplicación móvil para gestionar y categorizar gastos, con autenticación, gráficos y análisis financiero.
-
-
-🔹 Sistema de Análisis de Logs
-
-Proyecto en Java con AWS para detectar patrones, errores y anomalías en tiempo real.
-
-
-📈 Áreas que estoy fortaleciendo
-
-Arquitectura limpia
-
-Sistemas distribuidos
-
-Cloud AWS
-
-Optimización backend
-
-Patrones de diseño
-
-Flutter avanzado
-
-🤝 ¿Colaboramos?
-
-Estoy abierto a colaborar en proyectos backend, mobile, cloud o cualquier idea interesante donde pueda aportar y aprender.
-
-📬 Siéntete libre de escribirme o invitarme a participar en algún proyecto.
+## 🛠 Skills
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Moncho1230&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moncho1230&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
